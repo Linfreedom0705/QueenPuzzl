@@ -1,0 +1,7 @@
+D:\QueenPuzzle\QueenPuzzleAll\QueenPuzzleAll\QueenPuzzleAll\bin\Debug\QueenPuzzleAll.exe.config
+D:\QueenPuzzle\QueenPuzzleAll\QueenPuzzleAll\QueenPuzzleAll\bin\Debug\QueenPuzzleAll.exe
+D:\QueenPuzzle\QueenPuzzleAll\QueenPuzzleAll\QueenPuzzleAll\bin\Debug\QueenPuzzleAll.pdb
+D:\QueenPuzzle\QueenPuzzleAll\QueenPuzzleAll\QueenPuzzleAll\obj\Debug\QueenPuzzleAll.csprojAssemblyReference.cache
+D:\QueenPuzzle\QueenPuzzleAll\QueenPuzzleAll\QueenPuzzleAll\obj\Debug\QueenPuzzleAll.csproj.CoreCompileInputs.cache
+D:\QueenPuzzle\QueenPuzzleAll\QueenPuzzleAll\QueenPuzzleAll\obj\Debug\QueenPuzzleAll.exe
+D:\QueenPuzzle\QueenPuzzleAll\QueenPuzzleAll\QueenPuzzleAll\obj\Debug\QueenPuzzleAll.pdb
